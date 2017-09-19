@@ -2,11 +2,11 @@
 
 |                      | IAAS Knigth  | PAAS Ninja   | PAAS Robot  |  FAAS BabyDrive       |
 |--------------------- |--------------|--------------|-------------|-----------------------|
-| Cout Infra           |              |              |             |                       |
-| Customisation        |              |              |             |                       |
-| Complexité initiale  |              |              |             |                       |
-| Scalabilité          |              |              |             |                       |
-| Maintenance          |              |              |             |                       |
+| Cout Infra           |              |     +++      |             |         +++           |
+| Customisation        |              |     +        |             |         +             |
+| Complexité initiale  |              |     ++       |             |         ++            |
+| Scalabilité          |              |     +++      |             |        ++++           |
+| Maintenance          |              |     +++      |             |        ++++           |
 
 # IAAS Knight -
 
