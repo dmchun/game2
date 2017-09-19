@@ -20,15 +20,11 @@
 ## Aides
 
 <center>
-
     <img src="./images/4571.CloudServicesCompare_6EE94312.jpg"/>
-
     <img src="./images/cloud_value.gif"/>
-
     <img src="./images/Critere.png"/>
-
     <img src="./images/cloud-computing.jpg"/>
-
+    
 </center>
 
 ### La calculette 
@@ -55,8 +51,10 @@ Instructions du jeu [ici](instructions_paas_robot.md)
 ### PAAS Ninja - App Service Web Apps 
 
 *App Service Web Apps* est une plateforme de calcul entièrement gérée, optimisée pour l’hébergement de sites et d’applications web. Cette offre PaaS (Plateforme en tant que service) de Microsoft Azure vous permet de donner la priorité à votre logique métier tandis qu’Azure gère l’infrastructure servant à exécuter et à faire évoluer vos applications.
-[App Service Web Apps ](https://azure.microsoft.com/fr-fr/services/app-service/web/)
+
 [Fonctionnement d’App Service](https://docs.microsoft.com/fr-fr/azure/app-service/app-service-how-works-readme)
+
+[App Service Web Apps ](https://azure.microsoft.com/fr-fr/services/app-service/web/)
 
 Instructions du jeu [ici](instructions_paas_ninja.md)
 
@@ -64,6 +62,7 @@ Instructions du jeu [ici](instructions_paas_ninja.md)
 ### FAAS and Furious - Azure Functions
 
 *Azure Functions* vous permet d’exécuter votre code dans un environnement sans serveur et sans avoir à créer une machine virtuelle ou à publier une application web au préalable
+
 [Azure Functions](https://azure.microsoft.com/fr-fr/services/functions/)
 
 Instructions du jeu [ici](instructions_faas_and_furious.md)

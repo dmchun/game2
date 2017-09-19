@@ -39,7 +39,7 @@ Nombre de faille détéctée par l'Advisor azure
 ```
 
 # Hit rating: Mais qui a oublié d'éteindre la lumière
-<center><img src=./others/200w_d.gif" width="200"></center>
+<center><img src="./others/200w_d.gif" width="200"></center>
 
 Nombre d'acte d'administration réalisé sur azure avec votre compte
 ```
