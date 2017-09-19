@@ -10,4 +10,4 @@ Cela nous donne à postriori une idée de la facturation associé et permet de g
 
 
 * Requete HTTP GET, Retour attendu code 200 en text/plain
-    Hello SQLI Nantes
+    This is hello from Clouding Game!
