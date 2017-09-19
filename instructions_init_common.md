@@ -16,9 +16,9 @@ Les instructions sur le site de Microsoft : https://docs.microsoft.com/en-us/cli
 #### 2.A.1 Créer un nouveau resource group
 1. Sélectionner le menu resource groupe
 2. Cliquer sur Add
-3. Indiquer un nom : `clouding-game-<login-sql>`
+3. Indiquer un nom : `clouding-game-<team-sql>`
 4. Choisir la Subscription `NAI1 - Agence Nantes`
-5. Choisir la Resource group `East US 2`
+5. Choisir l'emplacement `West Europe` ou `Europe occidentale`
 
 _Nous choisissons pour ce jeu, la localisation qui nous coutera le moins cher, mais pour des besoins client, on pourra préférer `West Europe` notamment pour respecter une localisation des données en Europe ou bien améliorer les temps de réponse_
 
@@ -56,14 +56,14 @@ Votre CLI est authorisée sur le portail Azure par votre compte SQLI
 #### 2.A.1 Créer un nouveau resource group
 En une seule commande, vous pouvez créer un resource group : 
 ```
-az group create -n clouding-game-<login_sqli> -l westus2
+az group create -n clouding-game-<team_sqli> -l westeurope
 ```
 Réponse attendue :
 {
-  "id": "/subscriptions/<id-subscription>/resourceGroups/clouding-game-grenaudin",
-  "location": "westus2",
+  "id": "/subscriptions/<id-subscription>/resourceGroups/clouding-game-<team_sqli>",
+  "location": "westeurope",
   "managedBy": null,
-  "name": "clouding-game-<login_sqli>",
+  "name": "clouding-game-<team_sqli>",
   "properties": {
     "provisioningState": "Succeeded"
   },

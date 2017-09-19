@@ -1,9 +1,6 @@
 
 
 
-<center><img src="./4571.CloudServicesCompare_6EE94312.jpg"/></center>
-
-
 
 # PAAS Ninja - App Service Web Apps 
 [App Service Web Apps ](https://azure.microsoft.com/fr-fr/services/app-service/web/)
