@@ -4,5 +4,5 @@
 * Dans Options de déploiement -> Deconnecter le github 'sample'
 * Dans Options de déploiement -> Configurer un git local
 * Dans propriété recuperer le git azure correspondant
-* Clone, edit, commit & test
+* Clone, edit ("Hello World!" -> "This is hello from Clouding Game!" ), commit & test
 ```
