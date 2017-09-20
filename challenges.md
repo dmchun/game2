@@ -31,7 +31,8 @@ Capacité de à traiter des transactions en parallèle (mesuré en 2 fois avec a
 _Premier tir à 1000 users injectés en mode rampe sur 60 secondes_ 
 
 ```
-log(TPS atteint)*4 pts
++ 15 pts si passe à 2000
++ 10 pts si passe à 1000
 ```
 
 
@@ -52,7 +53,7 @@ Nombre d'acte d'administration réalisé sur azure avec votre compte
 ```
 
 ## Intellect: Range ta chambre
-<center><img src=https://i.imgur.com/UGoye.jpg" width="200"></center>
+<center><img src="https://i.imgur.com/UGoye.jpg" width="200"></center>
 
 Bonus si toutes les ressources ont été créées sous le bon groupe de ressource
 ```
@@ -62,6 +63,7 @@ Bonus si toutes les ressources ont été créées sous le bon groupe de ressourc
 ## Invisible: Ni vu ni connu
 
 Bonus si l'utilisateur ne vois rien pendant la mise à jour
+<center><img src="https://i.skyrock.net/3648/60013648/pics/3121021305_1_3_6jOA2SCe.jpg" width="200"></center>
 ```
 +10 pts
 ```
