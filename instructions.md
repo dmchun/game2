@@ -11,7 +11,7 @@ Chaque type de déploiement, d'intégration ou d'usage est décrit par un "perso
 
 Votre première étape consiste à [choisir un personnage](caracters.md). 
 
-    *Si vous avez le temps, vous pourrez tester plusieurs personnages mais seul le premier sera retenu pour les challenges*
+*Si vous avez le temps, vous pourrez tester plusieurs personnages mais seul le premier sera retenu pour les challenges*
 
 Les challenges sont décrits [ici](challenges.md). **Attention le choix des personnages peut être influencé par ces défis**
 
