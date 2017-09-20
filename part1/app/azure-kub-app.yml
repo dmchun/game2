@@ -1,0 +1,27 @@
+apiVersion: apps/v1beta1
+kind: Deployment
+metadata:
+  name: sqli-clouding-game
+spec:
+  replicas: 1
+  template:
+    metadata:
+      labels:
+        app: sqli-clouding-game
+    spec:
+      containers:
+      - name: sqli-clouding-game
+        image: rguillom/clouding-game-part1:latest
+        ports:
+        - containerPort: 8080
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: sqli-clouding-game
+spec:
+  type: LoadBalancer
+  ports:
+  - port: 8080
+  selector:
+    app: sqli-clouding-game
