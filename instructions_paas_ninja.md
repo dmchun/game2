@@ -1,3 +1,7 @@
+<center><img src="./images/paas_ninja.png" width="200"></center>
+
+# Instructions de Jeu pour Paas Ninja
+
 ```
 * App Services -> Ajouter -> Node JS Empty Web App
 * Regarder le code source du sample, tester l'excecution

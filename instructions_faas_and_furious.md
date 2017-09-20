@@ -1,3 +1,7 @@
+<center><img src="./images/faas_and_furious.png" width="200"></center>
+
+# Instructions de Jeu pour Faas and Furious
+
 [Functions - Create first Azure function](https://docs.microsoft.com/fr-fr/azure/azure-functions/functions-create-first-azure-function)
 ```
 * RTFM and adapt the code

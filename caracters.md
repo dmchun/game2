@@ -43,8 +43,6 @@ Instructions du jeu [ici](instructions_iaas_knight.md)
 *Azure Container Service* est un environnement d'exécution de container Docker qui se base entièrement sur l'orchestrateur Kubernetes. A la croisée entre le PAAS (Plateform As A Service) et un nouveau concept appelé le CAAS (Container As A Service). Redoutable pour gérer finement la scalabilité d'une application et gérer des problématiques de déploiement tels que : A/B Testing, Blue/Green Deployment ou Infrastructure immuable.
 [Azure Container Service](https://azure.microsoft.com/fr-fr/services/container-service/)
 
-[Fonctionnement de Azure Container Service avec Kubernetes](https://docs.microsoft.com/en-us/azure/container-service/kubernetes/container-service-kubernetes-walkthrough)
-
 Instructions du jeu [ici](instructions_paas_robot.md)
 
 
