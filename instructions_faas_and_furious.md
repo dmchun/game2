@@ -9,3 +9,5 @@ context.res = {
 ```
 
 [NodeJs Functions Reference](https://docs.microsoft.com/fr-fr/azure/azure-functions/functions-reference-node)
+
+[CLI way](https://docs.microsoft.com/fr-fr/azure/azure-functions/functions-create-first-azure-function-azure-cli)
