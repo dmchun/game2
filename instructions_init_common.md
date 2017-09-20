@@ -58,7 +58,10 @@ En une seule commande, vous pouvez créer un resource group :
 ```
 az group create -n clouding-game-<team_sqli> -l westeurope
 ```
+
 Réponse attendue :
+
+```
 {
   "id": "/subscriptions/<id-subscription>/resourceGroups/clouding-game-<team_sqli>",
   "location": "westeurope",
@@ -69,3 +72,4 @@ Réponse attendue :
   },
   "tags": null
 }
+```
