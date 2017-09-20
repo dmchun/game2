@@ -15,6 +15,8 @@ Votre première étape consiste à [choisir un personnage](caracters.md).
 
 Les challenges sont décrits [ici](challenges.md). **Attention le choix des personnages peut être influencé par ces défis**
 
+Nous avons découpé le jeu en 3 parties que les organisateurs "TimeBox" : Attendez les go pour les départs/arrêts, pour le fun et le fairplay ;)
+
 ## Démarrez !
 
 * Suivre l'initialisation [commune](instructions_init_common.md)
